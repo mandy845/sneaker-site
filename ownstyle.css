@@ -1,0 +1,89 @@
+.section:nth-child(3) {
+  background: url('./reviews_bg.jpg') no-repeat center;
+  background-size: cover;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.page-heading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.2;
+  color: #464646;
+  text-align: center;
+}
+.testimonial {
+  width: 363px;
+  text-align: center;
+  margin-right: 15px;
+}
+.testimonial i {
+  color: #c6c6c6;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+#testimonial-slider {
+  width: 100%;
+}
+.page-subtitle {
+  font-size: 48px;
+  font-weight: bold;
+  color: #ed2d34;
+  text-align: center;
+  margin-bottom: 0.5rem;
+  padding-bottom: 100px;
+}
+.owl-carousel,
+.testimonial-name {
+  font-weight: 200;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  color: #464646;
+  line-height: 1.2;
+}
+.testimonial-message {
+  margin-bottom: 25px;
+  font-weight: 200;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  color: #464646;
+}
+#testimonialPage .testimonial-img {
+  display: block;
+  margin-top: 1.5rem !important;
+  box-sizing: border-box;
+  visibility: visible;
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+.testimonial-name {
+  font-weight: normal;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  color: #464646;
+  line-height: 1.2;
+}
+.section:nth-child(3) {
+  background: url(./background.jpg);
+}
+
+.content {
+  width: 1800px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#testimonialPage {
+  padding: 10% 0;
+}
